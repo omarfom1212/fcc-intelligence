@@ -27,7 +27,7 @@ export default function Contact() {
 <div className="flex flex-col sm:flex-row gap-4 md:justify-end">
 <a
 
-                href="mailto:hello@fcc-intelligence.com"
+                href="mailto:fccadmin7@gmail.com"
 
                 className="flex items-center justify-center gap-3 px-8 py-4 rounded-xl bg-blue-600 hover:bg-blue-500 transition"
 >
@@ -37,7 +37,7 @@ export default function Contact() {
 </a>
 <a
 
-                href="https://wa.me/96800000000"
+                href="https://wa.me/96897655700"
 
                 className="flex items-center justify-center gap-3 px-8 py-4 rounded-xl border border-white/20 hover:bg-white/10 transition"
 >

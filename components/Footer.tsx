@@ -44,12 +44,12 @@ export default function Footer() {
 <p className="flex gap-3">
 <Mail className="w-4 h-4 text-blue-400" />
 
-              hello@fcc-intelligence.com
+              fccadmin7@gmail.com
 </p>
 <p className="flex gap-3">
 <Phone className="w-4 h-4 text-blue-400" />
 
-              +968 1234 5678
+              +968 97655700
 </p>
 <p className="flex gap-3">
 <MapPin className="w-4 h-4 text-blue-400" />
